@@ -8,12 +8,148 @@
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
 	{
+		"libopencv_calib3d-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_calib3d.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_core-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_core",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_core.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_features2d-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_features2d.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_flann-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_flann.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_highgui-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_highgui.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_imgcodecs-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_imgcodecs.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_imgproc-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_imgproc.a",
+			"toolchain" : "2820355189"
+		},
 		"libopencv_java3-Release-armeabi" : 
 		{
 			"abi" : "armeabi",
 			"artifactName" : "libopencv_java3",
 			"buildType" : "release",
 			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_java3.so",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_ml-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_ml.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_objdetect-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_objdetect.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_photo-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_photo.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_shape-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_shape",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_shape.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_stitching-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_stitching.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_superres-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_superres",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_superres.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_ts-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_ts",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_ts.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_video-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_video",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_video.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_videoio-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_videoio.a",
+			"toolchain" : "2820355189"
+		},
+		"libopencv_videostab-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_videostab",
+			"buildType" : "release",
+			"output" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/jniLibs/armeabi/libopencv_videostab.a",
 			"toolchain" : "2820355189"
 		},
 		"native-lib-Release-armeabi" : 
@@ -26,7 +162,7 @@
 			[
 				
 				{
-					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain C:/Users/wei0831/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/wei0831/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain C:/Users/wei0831/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/wei0831/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem C:\\Users\\wei0831\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
 					"src" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/src/main/cpp/native-lib.cpp",
 					"workingDirectory" : "C:/Users/wei0831/Desktop/OpenCV_Init/app/.externalNativeBuild/cmake/release/armeabi"
 				}
